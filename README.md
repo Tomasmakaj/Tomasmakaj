@@ -1,4 +1,7 @@
-## ✉️ Find me on:
+## ✉️ Hi there 👋 I'm Tomas Makaj but you can call me Tommy🏼 
+
+
+Find me on:
 
 
 <p align="center">
