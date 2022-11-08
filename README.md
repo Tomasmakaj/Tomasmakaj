@@ -38,3 +38,5 @@ Find me on:
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Tomasmakaj.Tomasmakaj)
+[![Github](https://img.shields.io/github/followers/Tomasmakaj?label=Follow&style=social)](https://github.com/Tomasmakaj)
+
