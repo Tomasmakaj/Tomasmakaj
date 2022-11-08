@@ -35,3 +35,6 @@ Find me on:
 
 ![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmakaj)](https://github.com/Tomasmakaj/github-readme-stats)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Tomasmakaj.Tomasmakaj)
