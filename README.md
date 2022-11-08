@@ -6,4 +6,5 @@
 
 
 
-[![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmakaj)](https://github.com/Tomasmakaj/github-readme-stats)
+
+[Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=radical)
