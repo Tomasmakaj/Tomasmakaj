@@ -7,4 +7,4 @@
 
 
 
-[Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=radical)
+![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true)
