@@ -1,8 +1,9 @@
-Hi there 👋 I'm Tomas Makaj but you can call me Tommy
-
+👋 Hi, I’m @Tomasmakaj but you can call me Tommy and I'm an aspiring software enginner who is extremely detail-oriented. I take pleasure in addressing day-to-day problems as challenges to better my own skills.
+🌱 I’m currently learning and still learning everyday - JavaScript, React, Redux, Ruby, Rails, Python, Typescript ...
+- 💞️ I’m looking to learn and grow in an apprenticeship or entry level software enginner role for full stack web development ...
+- 🌊 My goals being in the tech industry is to expand my knowledge. I enjoy family, friends, basketball, lifting weights, and my PC 😁
 
 Find me on:
-
 
 <p align="center">
  <a href="https://tomasmakaj.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
