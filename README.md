@@ -8,3 +8,4 @@
 
 
 ![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true)
+![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=transparent)
