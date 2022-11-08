@@ -9,4 +9,4 @@
 
 
 ![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmakaj&layout=compact)](https://github.com/Tomasmakaj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmakaj)](https://github.com/Tomasmakaj/github-readme-stats)
