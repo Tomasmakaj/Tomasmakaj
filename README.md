@@ -1,4 +1,4 @@
-👋 Hi, I’m @Tomasmakaj but you can call me Tommy 
+👋  Hi, I’m @Tomasmakaj but you can call me Tommy 
 
 - 📟 I'm an aspiring software enginner who is extremely detail-oriented. I take pleasure in addressing day-to-day problems as challenges to better my own  skills.
 - 🌱 I’m currently learning and still learning everyday - JavaScript, React, Redux, Ruby, Rails, Python, Typescript ...
