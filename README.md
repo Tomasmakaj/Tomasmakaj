@@ -10,3 +10,10 @@
 
 ![Tomas GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmakaj)](https://github.com/Tomasmakaj/github-readme-stats)
+
+<a href="https://github-readme-stats.vercel.app/api?username=Tomasmakaj&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomasmakaj&repo=github-readme-stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmakaj)](https://github.com/Tomasmakaj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomasmakaj&repo=convoychat" />
+</a>
