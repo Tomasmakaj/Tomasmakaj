@@ -1,3 +1,10 @@
+👋  Hi, I’m @Tomasmakaj but you can call me Tommy 
+
+- 📟 I'm an aspiring software enginner who is extremely detail-oriented. I take pleasure in addressing day-to-day problems as challenges to better my own  skills
+- 🌱 I’m currently learning and growing everyday in - JavaScript, React, Redux, Ruby, Rails, Python
+- 💞️ I’m looking to learn and grow in an apprenticeship or entry level software enginner role for full stack web development
+- 🌊 My goals being in the tech industry is to expand my knowledge. I enjoy family, friends, basketball, lifting weights, and my PC 😁
+
 Find me on:
 
 <p align="center">
